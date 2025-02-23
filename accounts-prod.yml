@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Deepak Jha - Prod Oener"
-    email: "deepakjha2206qa@gmail.com"
+    email: "{cipher}6d22e262e86e951d067309223e38622b063deed330b8717a0e9c64f97ca0562b2f838440621d9f728aba7fd1cc924419"
   onCallSupport:
     - (555) 555-1444
     - (555) 523-2222
